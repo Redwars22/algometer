@@ -1,0 +1,25 @@
+{
+  "name": "andrew-algometer",
+  "version": "1.0.0",
+  "description": "Algometer is a CLI tool to measure the execution time of JavaScript/TypeScript algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithm",
+    "measurement",
+    "time",
+    "execution",
+    "time",
+    "tool",
+    "cli",
+    "efficiency",
+    "performance"
+  ],
+  "author": "AndrewNation",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
